@@ -5,7 +5,7 @@
     <string name="tsdik_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="tsdik_top_bar_home_title">Home/App Title</string>
+    <string name="tsdik_top_bar_home_title">Prosser Beauty</string>
     <string name="tsdik_top_bar_cart_title">Cart</string>
     <string name="tsdik_top_bar_checkout_title">Checkout</string>
     <string name="tsdik_top_bar_orders_title">Orders</string>
@@ -19,14 +19,14 @@
     <string name="tsdik_bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="tsdik_page_1_title">Strategic Planning</string>
-    <string name="tsdik_page_2_title">Operational Excellence</string>
-    <string name="tsdik_page_3_title">Change Management</string>
-    <string name="tsdik_page_1_description">Comprehensive strategic analysis and planning that aligns your business objectives with market opportunities and organizational capabilities.</string>
-    <string name="tsdik_page_2_description">Process optimization and operational improvement strategies that enhance efficiency, reduce costs, and drive sustainable performance.</string>
-    <string name="tsdik_page_3_description">Expert guidance through organizational transformation</string>
+    <string name="tsdik_page_1_title">A ritual made for you</string>
+    <string name="tsdik_page_2_title">Discover your signature</string>
+    <string name="tsdik_page_3_title">Reserve with confidence</string>
+    <string name="tsdik_page_1_description">Explore considered skincare and beauty essentials selected to elevate every day.</string>
+    <string name="tsdik_page_2_description">Find expressive colour, nourishing care and graceful fragrance.</string>
+    <string name="tsdik_page_3_description">Reserve in moments and collect your order within 24 hours.</string>
     <string name="tsdik_next_button_title">Next</string>
-    <string name="tsdik_start_button_title">Start</string>
+    <string name="tsdik_start_button_title">Get Started</string>
     <string name="tsdik_skip_button_title">Skip</string>
 
     <!-- home/products screen   -->
@@ -56,17 +56,22 @@
     <string name="tsdik_button_confirm_order_label">Confirm Order</string>
 
     <!-- checkout dialog -->
-    <string name="tsdik_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="tsdik_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
-    <string name="tsdik_checkout_dialog_confirm">Done</string>
+    <string name="tsdik_checkout_dialog_title">Reservation confirmed</string>
+    <string name="tsdik_checkout_success_message">Your order is confirmed and will be waiting in store for 24 hours. Your reservation number is shown in Orders.</string>
+    <string name="tsdik_checkout_dialog_confirm">View Order</string>
 
     <!-- settings screen -->
     <string name="tsdik_settings_screen_company_label">Company</string>
     <string name="tsdik_settings_screen_version_label">Version</string>
     <string name="tsdik_settings_screen_customer_support_label">Customer Support</string>
-    <string name="tsdik_company_name">Company Name</string>
-    <string name="tsdik_app_version">1.0.0</string>
-    <string name="tsdik_customer_support_link">https://website.org/</string>
+    <string name="tsdik_company_name">PROSSER &amp; CO LTD</string>
+    <string name="tsdik_app_version">1.0</string>
+    <string name="tsdik_customer_support_link">https://prosserco.study</string>
+    <string name="tsdik_category_skincare">Skincare</string>
+    <string name="tsdik_category_makeup">Makeup</string>
+    <string name="tsdik_category_haircare">Haircare</string>
+    <string name="tsdik_category_body">Body</string>
+    <string name="tsdik_category_fragrance">Fragrance</string>
 
     <!-- clear cart dialog -->
     <string name="tsdik_clear_cart_dialog_title">Clear cart?</string>
